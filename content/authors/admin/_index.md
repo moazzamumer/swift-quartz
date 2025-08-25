@@ -1,9 +1,9 @@
 ---
 # Display name
-title: معظم عمر گوندل
+title: Moazzam Umer Gondal
 
 # Name pronunciation (optional)
-name_pronunciation: Moazzam Umer Gondal
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Moazzam Umer
@@ -62,12 +62,12 @@ education:
       url: 'https://example.com'
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: AI Engineer
+    company_name: Catalic AI
+    company_url: 'https://www.linkedin.com/company/catalic-ai'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2024-05-01
+    date_end: '2025-04-30'
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -161,4 +161,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Data Science graduate with hands-on experience across research, industry, and global competitions. I enjoy building impactful AI systems and collaborating on projects that connect theory with real-world applications.
