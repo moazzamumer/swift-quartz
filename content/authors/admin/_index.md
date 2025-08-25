@@ -84,31 +84,39 @@ work:
       - Developed AI-driven applications integrating RESTful APIs to enable real-time data processing for scalable platforms.
       - Optimized AI model deployment on AWS and GCP, increasing system efficiency in cloud environments.
       - Fine-tuned large language models (LLMs) to enhance task-specific performance in enterprise-level automation systems.
-      -  Contributed to R&D on advanced AI and LLM architectures while authoring technical documentation to communicate model innovations and deployment strategies to stakeholders.
+      - Contributed to R&D on advanced AI and LLM architectures while authoring technical documentation to communicate model innovations and deployment strategies to stakeholders.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python, R, C/C++, SQL
-        description: 'Languages'
+      - name: Languages
+        description: 'Python, R, C/C++, SQL'
         percent: 80
         icon: code-bracket
-      - name: FastAPI, Flask, Django, Streamlit
-        description: ''
+      - name: Frameworks
+        description: 'FastAPI, Flask, Django, Streamlit'
         percent: 80
         icon: code-bracket
-      - name: Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow, Keras, OpenCV, Matplotlib, Seaborn
-        description: ''
+      - name: Libraries
+        description: 'Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow, Keras, OpenCV, Matplotlib, Seaborn'
         percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
+      - name: Databases
+        description: 'PostgreSQL, MySQL, SQL Server, SQLite, MongoDB'
         percent: 100
         icon: chart-bar
-      - name: SQL
-        description: ''
+      - name: LLMs and AI APIs
+        description: 'OpenAI API, Gemini, Gemma (3 series), LangChain, ChromaDB, Pinecone, YOLO'
+        percent: 40
+        icon: circle-stack
+      - name: Cloud & DevOps
+        description: 'AWS, GCP, Docker, Linux, Git, CI/CD, HuggingFace'
+        percent: 40
+        icon: circle-stack
+      - name: Tools
+        description: 'Jupyter Notebook, GitHub, Cursor'
         percent: 40
         icon: circle-stack
   - name: Hobbies
@@ -119,11 +127,15 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Reading
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Movies & Cinema
+        description: ''
+        percent: 80
+        icon: camera
+      - name: Literature & Music
         description: ''
         percent: 80
         icon: camera
