@@ -56,12 +56,23 @@ education:
     date_start: 2021-01-08
     date_end: 2025-05-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      FYP: Landscape Art Studio – An AI-driven application enabling artists to edit and enhance landscapes through mask processing, image generation, and intuitive customization tools
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: 'GitHub'
+      url: 'https://github.com/moazzamumer/Landscape-Art-Studio'
 
 work:
+  - position: Research Assistant
+    company_name: FAST NUCES Lahore
+    company_url: 'https://lhr.nu.edu.pk/'
+    company_logo: ''
+    date_start: 2024-08-01
+    date_end: 
+    summary: |
+      Responsibilities include:
+      - Conducted experiments on multivariate air quality forecasting using NeuralProphet, LightGBM, and federated learning frameworks.
+      - Built and evaluated federated pipelines for multi-sensor human activity recognition, achieving 85%+ accuracy.
+      - Performed systematic benchmarking and reproducible evaluations to support upcoming publications.
   - position: AI Engineer
     company_name: Catalic AI
     company_url: 'https://www.linkedin.com/company/catalic-ai'
@@ -70,27 +81,25 @@ work:
     date_end: '2025-04-30'
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed AI-driven applications integrating RESTful APIs to enable real-time data processing for scalable platforms.
+      - Optimized AI model deployment on AWS and GCP, increasing system efficiency in cloud environments.
+      - Fine-tuned large language models (LLMs) to enhance task-specific performance in enterprise-level automation systems.
+      -  Contributed to R&D on advanced AI and LLM architectures while authoring technical documentation to communicate model innovations and deployment strategies to stakeholders.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Python, R, C/C++, SQL
+        description: 'Languages'
+        percent: 80
+        icon: code-bracket
+      - name: FastAPI, Flask, Django, Streamlit
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow, Keras, OpenCV, Matplotlib, Seaborn
         description: ''
         percent: 80
         icon: code-bracket
@@ -106,7 +115,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Travelling
         description: ''
         percent: 60
         icon: person-simple-walk
@@ -121,11 +130,11 @@ skills:
 
 languages:
   - name: English
+    percent: 90
+  - name: Urdu
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Punjabi
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
